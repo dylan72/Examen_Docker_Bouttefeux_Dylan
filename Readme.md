@@ -1,4 +1,4 @@
-# Convertisseur de Hash en PHP
+# Convertisseur de Hash en PHP.
 
 Cette application est une interface web permettant de crypter du texte en utilisant différentes méthodes de hashage. Elle permet également de conserver un historique des textes cryptés avec leurs méthodes de cryptage. On peut également supprimer des entrées spécifiques de l'historique.
 
