@@ -29,7 +29,7 @@ Le projet inclut un workflow GitHub Actions qui :
 1. **Cloner le dépôt Git** :
    ```bash
    git clone https://github.com/dylan72/Examen_Docker_Bouttefeux_Dylan
-   cd Examen-Docker-Bouttefeux-Dylan
+   cd Examen_Docker_Bouttefeux_Dylan
 
 2. **Construire l'image Docker** :
    ```bash
