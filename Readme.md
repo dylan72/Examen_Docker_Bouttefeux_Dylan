@@ -13,6 +13,15 @@ Avant de lancer le projet, assurez-vous d'avoir installé :
 
 ---
 
+## GitHub Actions
+
+Le projet inclut un workflow GitHub Actions qui :
+
+1. Compile automatiquement l'image Docker à chaque **push** ou **pull request** sur la branche `main`.
+2. Vérifie que l'image Docker peut être construite correctement.
+
+---
+
 ## Installation et lancement
 
 ### Étapes d'installation

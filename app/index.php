@@ -1,5 +1,4 @@
 <?php
-// Fichier de données
 $resultsFile = 'results.json';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] === 'add') {
