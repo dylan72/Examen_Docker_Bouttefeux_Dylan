@@ -1,5 +1,5 @@
 <?php
-$resultsFile = 'results.json';
+$resultsFile = '/data/results.json';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] === 'add') {
     $inputText = $_POST['inputText']; // Récupérer le texte à crypter
